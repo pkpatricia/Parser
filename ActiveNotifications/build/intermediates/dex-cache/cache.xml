@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/10192475eee1c5331e5e23ae6e6ec0b954fe22f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b16effe661f4dfa05d2a8deb17447ad6a9ac517b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/6edf3f5e4782ab6b7a85dd850894baccfe0fc03c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52faf9e8a30a2c8037674ace8c2dbc3b591c7174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/c007b0cdc1a41bcf361f2cdc2a0fa3cf2135dfeb/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9decff136b2ddbbd82faa0b7c076482664b3ec28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/90f898a722b40bba6750d837d05f1fc9936c42fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e49bf5cd8a846f6b117576749769c380b7fe8983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa29542faa709b21ef8f1f588756adc5555d3be6">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b6408620d9d005b884cee6e42d062dd49e6ba9b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/c007b0cdc1a41bcf361f2cdc2a0fa3cf2135dfeb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_960cb425c540be314c6e05a2b2d128ffb6ffdf34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/57f253de5b3f545172042f38db8b1bdbc1e4613a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ef2ab1381afb8bb5ae8a38f691d3690c15085f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/a8e0d4fe1b0eb72ab8b981a31ba6d0b4fe16b16b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52d3c798b2fec2230e89df411f3428c6c22cc01d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/10192475eee1c5331e5e23ae6e6ec0b954fe22f1/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_38f8698d182855b4bdf2f169c07b16ee00691898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/a277fa78f7c06ffeaf3e1e8cdf7bf2e305460d70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee9337423cc7024c649817fab9bfd19850077812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/90f898a722b40bba6750d837d05f1fc9936c42fd/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_680a6594e511757c2ee8093069e6ca251ae8ed61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_7e283753662bf75ddccbe430a8317312a0470cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/a8e0d4fe1b0eb72ab8b981a31ba6d0b4fe16b16b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0f590c35fb1d77da56e38d6deb4e27a2d3e8a741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/6cf7caf969efc7635b44a1b4c49ec96867805531/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1e032b63b6ded3be55da9c308fea829e653fc303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/7c8f4493986cb360eac44014baef76de9823baf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfdc452d004ce4ebd9bb4f0610dfae62c58143f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/6edf3f5e4782ab6b7a85dd850894baccfe0fc03c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e4148bf5a46761775d3ae8a97046fd3d85d78ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/6cf7caf969efc7635b44a1b4c49ec96867805531/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4db35b51dbc82bf58a774a4114aadfc2a1eeb5ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3a332138764beddf13df987501668599d11112a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/81e55cb7b72ae742964c52d285d740dcbd564e2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_143ef1e837b93ebb1d05ca7e7deb2c6f0537d463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/patriciaparker/.android/build-cache/047b3e07d28e0b35dd6b793cafc723f47e02b739/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45467f9eaf6f2e064b8a65fc671b1e3b45228230/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/naglaBackgroundColor"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    tools:context="com.shermansthill.nagla.GroceryListActivity">
+
+    <ListView
+        android:id="@+id/groceryListView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:background="@android:color/white"
+        android:divider="@color/naglaBackgroundColor"
+        android:dividerHeight="5sp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/naglaAppThemeColor"
+        app:srcCompat="@drawable/ic_action_add" />
+
+    <LinearLayout
+        android:layout_width="223dp"
+        android:layout_height="260dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/glAIconImageView"
+            android:layout_width="match_parent"
+            android:layout_height="169dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/glIcon"
+            app:srcCompat="@drawable/additems" />
+
+        <TextView
+            android:id="@+id/glAPromptTextView"
+            android:layout_width="199dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/glItems_init_prompt"
+            android:textAlignment="center"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

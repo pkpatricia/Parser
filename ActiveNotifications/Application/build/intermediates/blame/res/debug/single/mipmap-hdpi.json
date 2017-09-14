@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/res/merged/debug/mipmap-hdpi/ic_notification.png",
+        "source": "/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/src/main/res/mipmap-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/patriciaparker/AndroidStudioProjects/ActiveNotifications/Application/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

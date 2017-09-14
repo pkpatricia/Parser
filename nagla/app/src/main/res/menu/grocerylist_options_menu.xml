@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/find_nearest_store"
+        android:title="@string/find_nearest_store"/>
+    <item android:id="@+id/copy_list_items"
+        android:title="@string/copy_list_items"/>
+    <item android:id="@+id/glSettings"
+        android:title="@string/settings"/>
+    <item android:id="@+id/share_list"
+        android:title="@string/share_list"/>
+    <item android:id="@+id/delete_list"
+        android:title="@string/delete_list"/>
+</menu>
