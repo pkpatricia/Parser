@@ -35,6 +35,7 @@ public class XMLHandler extends DefaultHandler {
 
         if (localName.equals("CATALOG")) {
             XMLHandler.data = new XMLGettersSetters();
+
         } else if (localName.equals("CD")) {
 
             try {
@@ -85,8 +86,10 @@ public class XMLHandler extends DefaultHandler {
             throws SAXException {
 
         if (this.elementOn) {
+
             this.elementValue = new String(ch, start, length);
             this.elementOn = false;
+
         }
 
     }

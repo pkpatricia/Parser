@@ -4,4 +4,9 @@
 
     <string name="Login">Please Login</string>
 
+    <string name="cd_catalog_results">CD Catalog Results</string>
+
+    <string name="countofitems">Number of Catalogs that are sold out is:</string>
+
+
 </resources>
